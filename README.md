@@ -5,7 +5,7 @@ Bocconi University & Politecnico di Milano
 ---
 
 ## Ferrari Cyber Security Toolkit (Board-Level)
-**Course:** Strategy and Governance for Cyber Risk
+**Course:** Strategy and Governance for Cyber Risk  
 **Focus:** Cybersecurity governance, board awareness, investment justification  
 **Description:** Development of a board-level cybersecurity toolkit aimed at supporting strategic decision-making and investment prioritization in cyber risk management.
 
