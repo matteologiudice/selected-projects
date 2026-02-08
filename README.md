@@ -1,13 +1,12 @@
 # Selected Academic Projects
-MSc in Cyber Risk Strategy and Governance  
-Bocconi University & Politecnico di Milano
+MSc in Cyber Risk Strategy and Governance - (Joint Degree) Bocconi University & Politecnico di Milano
 
 ---
 
 ## Ferrari Cyber Security Toolkit (Board-Level)
 **Course:** Strategy and Governance for Cyber Risk  
 **Focus:** Cybersecurity governance, board awareness, investment justification  
-**Description:** Development of a board-level cybersecurity toolkit aimed at supporting strategic decision-making and investment prioritization in cyber risk management.
+**Description:** Development of a board-level cybersecurity toolkit aimed at supporting strategic decision-making and investment prioritization in cyber risk management
 
 📄 [Download PDF](./ferrari-cyber-security-toolkit.pdf)
 
@@ -33,5 +32,13 @@ Bocconi University & Politecnico di Milano
 
 ## Database Management Systems Project
 **Course:** Enterprise ICT Architectures  
-**Technologies:** SQL, MongoDB, Neo4j  
-**Description:** Comparative analysis and implementation of relational, document-based and graph database systems.
+**Technologies:** SQL, Neo4j, MongoDB 
+**Description:** Comparative analysis and implementation of relational, graph database systems and document-based
+
+📄 [Download PDF (ER model + SQL queries)](./EICTA_Project_1___ER_Model___SQL.pdf)
+
+📄 [Download PDF (Neo4j + BPMN)](./EICTA_Project_2___NEO4j___BPMN.pdf)
+
+📄 [Download PDF (MongoDB)](./EICTA_Project_3___MongoDB.pdf)
+
+---
