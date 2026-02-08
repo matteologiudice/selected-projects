@@ -15,7 +15,7 @@ MSc in Cyber Risk Strategy and Governance - (Joint Degree) Bocconi University & 
 ## Phishing URLs Detection using Machine Learning
 
 **Course:** Artificial Intelligence for Security  
-**Focus:** Application of supervised, unsupervised, and anomaly detection techniques for phishing URL detection, based on the analysis of structural and lexical characteristics of web addresses
+**Focus:** Application of supervised, unsupervised, and anomaly detection techniques for phishing URL detection, based on the analysis of structural and lexical characteristics of web addresses<br>
 **Description:** Exploratory Data Analysis (EDA), feature engineering on URL attributes, categorical feature encoding (One-Hot Encoding and Target Encoding), and implementation of supervised classifiers, unsupervised learning approaches, and anomaly detection methods
 
 
@@ -43,7 +43,7 @@ MSc in Cyber Risk Strategy and Governance - (Joint Degree) Bocconi University & 
 
 ## Database Management Systems Project
 **Course:** Enterprise ICT Architectures  
-**Technologies:** SQL, Neo4j, MongoDB 
+**Technologies:** SQL, Neo4j, MongoDB<br>
 **Description:** Comparative analysis and implementation of relational, graph database systems and document-based
 
 📄 [Download PDF (ER model + SQL queries)](./EICTA_Project_1___ER_Model___SQL.pdf)
