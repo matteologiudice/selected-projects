@@ -1,5 +1,5 @@
 # Selected Academic Projects
-MSc in Cyber Risk Strategy and Governance - (Joint Degree) Bocconi University & Politecnico di Milano
+MSc in Cyber Risk Strategy and Governance (Joint Degree), Bocconi University & Politecnico di Milano. This repository also includes selected academic work completed during my BSc in Computer Engineering at the University of Calabria and exchange experiences at Fairmont State University and the University of Rhode Island (USA)
 
 ---
 
