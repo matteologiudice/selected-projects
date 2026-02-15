@@ -53,3 +53,30 @@ MSc in Cyber Risk Strategy and Governance (Joint Degree), Bocconi University & P
 📄 [Download PDF (MongoDB)](./EICTA_Project_3___MongoDB.pdf)
 
 ---
+
+### Asteroids – 2D Game with Hierarchical Collision Detection  
+
+**Course:** CSC 406 – Computer Graphics  
+**Focus:** Real-time graphics, physics-based animation, collision detection, object-oriented design  
+
+**Programming Language:** C++  
+**Libraries & Tools:** OpenGL, GLUT, TGA image textures  
+
+**Techniques Implemented:**
+- Hierarchical bounding boxes for optimized collision detection  
+- Euclidean distance-based collision checks  
+- Physics-based animation using state equations (position, velocity, angular velocity)  
+- Mouse-driven dynamic orientation control  
+- Spherical world model (screen wrapping mechanics)  
+- Linked list data structures for asteroid and missile management  
+- Texture-based rendering (.tga images)  
+- Real-time score, lives, and health tracking system  
+
+**Description:**  
+Development of a 2D *Asteroids*-style game featuring a physics-driven spaceship with thrust and rotational controls, hierarchical collision detection, missile management, dynamically generated asteroids with probabilistic spawning, and additional adversarial entities. The project emphasizes structured object-oriented programming, real-time interaction handling, and computational optimization for collision detection.
+
+[Open Project Directory](./Asteroids_Game/)
+
+📄 [Download PDF Report](./Computer-Graphics/Asteroids/report/Report_Programming_Assignment_3_Matteo_Lo_Giudice.pdf)
+
+
