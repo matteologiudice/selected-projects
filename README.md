@@ -1,5 +1,6 @@
 # Selected Academic Projects
-MSc in Cyber Risk Strategy and Governance (Joint Degree), Bocconi University & Politecnico di Milano. This repository also includes selected academic work completed during my BSc in Computer Engineering at the University of Calabria and exchange experiences at Fairmont State University and the University of Rhode Island (USA)
+→ MSc in Cyber Risk Strategy and Governance (Joint Degree), Bocconi University & Politecnico di Milano<br>
+→ This repository also includes selected academic work completed during my BSc in Computer Engineering at the University of Calabria and exchange experiences at Fairmont State University and the University of Rhode Island (USA)
 
 ---
 
@@ -73,7 +74,12 @@ MSc in Cyber Risk Strategy and Governance (Joint Degree), Bocconi University & P
 - Real-time score, lives, and health tracking system  
 
 **Description:**  
-Development of a 2D *Asteroids*-style game featuring a physics-driven spaceship with thrust and rotational controls, hierarchical collision detection, missile management, dynamically generated asteroids with probabilistic spawning, and additional adversarial entities. The project emphasizes structured object-oriented programming, real-time interaction handling, and computational optimization for collision detection.
+Development of a 2D *Asteroids*-style game featuring a physics-driven spaceship with thrust and rotational controls, hierarchical collision detection, missile management, dynamically generated asteroids with probabilistic spawning, and additional adversarial entities. The project emphasizes structured object-oriented programming, real-time interaction handling, and computational optimization for collision detection
+
+<p align="center">
+  <img src="./img/game1.png" width="40%" />
+  <img src="./img/game2.png" width="40%" />
+</p>
 
 👽 [Open Project Directory](./Computer-Graphics/Asteroids)
 
