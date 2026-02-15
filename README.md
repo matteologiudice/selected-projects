@@ -54,7 +54,7 @@ MSc in Cyber Risk Strategy and Governance (Joint Degree), Bocconi University & P
 
 ---
 
-### Asteroids – 2D Game with Hierarchical Collision Detection  
+## Asteroids – 2D Game with Hierarchical Collision Detection  
 
 **Course:** CSC 406 – Computer Graphics  
 **Focus:** Real-time graphics, physics-based animation, collision detection, object-oriented design  
@@ -75,7 +75,7 @@ MSc in Cyber Risk Strategy and Governance (Joint Degree), Bocconi University & P
 **Description:**  
 Development of a 2D *Asteroids*-style game featuring a physics-driven spaceship with thrust and rotational controls, hierarchical collision detection, missile management, dynamically generated asteroids with probabilistic spawning, and additional adversarial entities. The project emphasizes structured object-oriented programming, real-time interaction handling, and computational optimization for collision detection.
 
-[Open Project Directory](./Asteroids_Game/)
+👽 [Open Project Directory](./Computer-Graphics/Asteroids)
 
 📄 [Download PDF Report](./Computer-Graphics/Asteroids/report/Report_Programming_Assignment_3_Matteo_Lo_Giudice.pdf)
 
