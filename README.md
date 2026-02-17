@@ -55,6 +55,20 @@
 
 ---
 
+## Secure Full-Stack E-Commerce Platform – ShoeApp  
+
+**Course:** Software Platforms for Web Applications  
+**Focus:** Secure full-stack development, REST API design, SQL database integration, token-based authentication  
+**Technologies:** Java (Spring Boot), PostgreSQL, Angular, Keycloak (OAuth2 / JWT), Google Maps API  
+
+**Description:**  
+Design and implementation of a complete full-stack e-commerce platform for online shoe retail. The backend exposes RESTful APIs developed in Java (Spring Boot) and connected to a PostgreSQL relational database (SQL-compliant and database-agnostic architecture). Authentication and authorization are enforced via Keycloak using OAuth2/OpenID Connect with JWT-based stateless access control. The Angular frontend implements product catalog browsing, persistent cart management (including guest-to-authenticated cart merging upon login), user profile, order history, checkout workflow, order confirmation, and Google Maps API integration for location-based services.
+
+💻 [Frontend Repository](https://github.com/matteologiudice/ShoeApp_WebApplication_FrontEnd)  
+⚙️ [Backend Repository](https://github.com/matteologiudice/ShoeApp_WebApplication_BackEnd)
+
+---
+
 ## Asteroids – 2D Game with Hierarchical Collision Detection  
 
 **Course:** CSC 406 – Computer Graphics  
