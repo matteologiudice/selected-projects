@@ -13,7 +13,7 @@
 
 ---
 
-## Phishing URLs Detection using Machine Learning
+## Phishing URL Detection using Machine Learning
 
 **Course:** Artificial Intelligence for Security  
 **Focus:** Application of supervised, unsupervised, and anomaly detection techniques for phishing URL detection, based on the analysis of structural and lexical characteristics of web addresses<br>
