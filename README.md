@@ -55,6 +55,25 @@
 
 ---
 
+## Online Auction System – Distributed Client–Server with gRPC & Design Patterns  
+
+**Course:** Software Engineering  
+**Focus:** Distributed systems architecture, remote procedure calls, object-oriented design, modularity, testing  
+
+**Programming Language:** Java  
+**Technologies:** Google gRPC (Remote Procedure Calls), JUnit  
+
+**Design Patterns Implemented:** Decorator, Builder, Bridge, Composite, Observer  
+
+**Description:**  
+Design and implementation of a distributed **online auction system** developed in Java using **Google gRPC** for client–server communication via remote procedure calls (RPC). The project emphasizes modular software architecture and object-oriented design, applying classical design patterns to improve maintainability, extensibility, and separation of concerns.
+
+The work includes **functional and non-functional requirements** definition and prioritization, **UML modeling for each module**, and systematic **unit testing** of modules and features using **JUnit**.
+
+💻 [Open Repository](https://github.com/matteologiudice/Progetto-ING-SOFTWARE-Matteo-Lo-Giudice-231752)
+
+---
+
 ## Secure Full-Stack E-Commerce Platform – ShoeApp  
 
 **Course:** Software Platforms for Web Applications  
