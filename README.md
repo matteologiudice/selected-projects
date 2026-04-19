@@ -10,7 +10,7 @@
 **Focus:** AI-related cyber risk analysis, stakeholder mapping, policy & governance, regulatory compliance  
 **Description:** Group project analyzing AI-related cyber risks in France, with a focus on smart surveillance systems. The work covers the national and EU regulatory landscape (AI Act, GDPR, Law Enforcement Directive), a full stakeholder analysis (citizens, government, technological supply chain), and a structured risk mapping across cybersecurity, economic, societal, and national security dimensions. The project proposes a governance framework centered around a newly designed national authority (HAIASP) and a 10-action resilience plan to secure the AI-based public video surveillance supply chain while safeguarding fundamental rights and public trust.
 
-
+📄 [Download PDF](./FranceSmartSurveillance_final_version.pdf)
 
 ---
 
