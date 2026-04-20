@@ -48,7 +48,8 @@
 **Focus:** Probabilistic cyber risk modelling in a financial institution  
 **Methods:** Bayesian Network, scenario analysis, control effectiveness evaluation
 
-📄 [Download PDF](./ransomware-bayesian-network.pdf)
+📄 [Download PDF (Presentation)](./ransomware-bayesian-network.pdf)
+📄 [Download PDF (Paper)](./Methods_Paper.pdf)
 
 ---
 
