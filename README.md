@@ -13,7 +13,7 @@
 **Description:**  
 Analytical project on linear time-invariant (LTI) dynamic systems, developed through both **continuous-time** and **discrete-time** state-space models. The work includes the study of natural modes, free and forced responses, transfer functions, poles and zeros, step/ramp/periodic input responses, and minimum-order input-output representations. The project also examines stability properties, transient and steady-state behavior, and the role of initial conditions in activating specific system modes. All symbolic and computational analyses were carried out using **Wolfram Mathematica**.
 
-📄 [Download PDF (in Italian)](./Relazione_Tecnica_Progetto_FdA_Matteo_Lo_Giudice_231752.pdf)
+📄 [Download PDF (in Italian)](./Relazione Tecnica Progetto FdA_Matteo_Lo_Giudice_231752.pdf)
 
 ---
 
