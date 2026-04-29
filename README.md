@@ -14,11 +14,11 @@
 
 ### AI & Data
 - [Phishing URL Detection using Machine Learning](#phishing-url-detection-using-machine-learning)
+- [Database Management Systems Project](#database-management-systems-project)
 
-### Software Engineering & Systems
+### Software Engineering
 - [Online Auction System](#online-auction-system--distributed-clientserver-with-grpc--design-patterns)
 - [ShoeApp – E-Commerce Platform](#secure-full-stack-e-commerce-platform--shoeapp)
-- [Database Management Systems Project](#database-management-systems-project)
 
 ### Control Systems & Engineering
 - [Dynamic Systems Analysis and Control Modeling](#dynamic-systems-analysis-and-control-modeling)
