@@ -4,6 +4,19 @@
 
 ---
 
+## Dynamic Systems Analysis and Control Modeling
+
+**Course:** Fundamentals of Control Systems
+**Focus:** Linear systems analysis, state-space modeling, transfer functions, time/frequency response, continuous and discrete time systems  
+**Technologies:** Wolfram Mathematica  
+
+**Description:**  
+Analytical project on linear time-invariant (LTI) dynamic systems, developed through both **continuous-time** and **discrete-time** state-space models. The work includes the study of natural modes, free and forced responses, transfer functions, poles and zeros, step/ramp/periodic input responses, and minimum-order input-output representations. The project also examines stability properties, transient and steady-state behavior, and the role of initial conditions in activating specific system modes. All symbolic and computational analyses were carried out using **Wolfram Mathematica**.
+
+📄 [Download PDF (in Italian)](./Relazione_Tecnica_Progetto_FdA_Matteo_Lo_Giudice_231752.pdf)
+
+---
+
 ## France – Smart Surveillance: AI-Related Cyber Risks & Governance
 
 **Course:** Institutional Scenarios of Cyber Risk  
