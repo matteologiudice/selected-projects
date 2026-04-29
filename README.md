@@ -1,6 +1,30 @@
 # Selected Academic Projects
 → [MSc in Cyber Risk Strategy and Governance (Joint Degree)](https://www.unibocconi.it/en/programs/master-science/cyber-risk-strategy-and-governance), Bocconi University & Politecnico di Milano<br>
-→ This repository also includes selected academic work completed during my BSc in Computer Engineering at the University of Calabria and exchange experiences at Fairmont State University and the University of Rhode Island (USA)
+→ This repository also includes selected academic work completed during my [BSc in Computer Engineering](https://corsilaurea22-23.unical.it/en/course/computer-engineering-2/index.html) at the University of Calabria and exchange experiences at Fairmont State University and the University of Rhode Island (USA)
+
+---
+
+## 🔎 Project Index
+
+### Cybersecurity & Cyber Risk
+- [France – Smart Surveillance](#france--smart-surveillance-ai-related-cyber-risks--governance)
+- [Ferrari Cyber Security Toolkit](#ferrari-cyber-security-toolkit-board-level)
+- [NotPetya Impact Analysis – Maersk](#notpetya-impact-analysis--maersk-global-operations)
+- [Ransomware Risk Modelling](#ransomware-risk-modelling-via-bayesian-network)
+
+### AI & Data
+- [Phishing URL Detection using Machine Learning](#phishing-url-detection-using-machine-learning)
+
+### Software Engineering & Systems
+- [Online Auction System](#online-auction-system--distributed-clientserver-with-grpc--design-patterns)
+- [ShoeApp – E-Commerce Platform](#secure-full-stack-e-commerce-platform--shoeapp)
+- [Database Management Systems Project](#database-management-systems-project)
+
+### Control Systems & Engineering
+- [Dynamic Systems Analysis and Control Modeling](#dynamic-systems-analysis-and-control-modeling)
+
+### Computer Graphics
+- [Asteroids – 2D Game](#asteroids--2d-game-with-hierarchical-collision-detection)
 
 ---
 
