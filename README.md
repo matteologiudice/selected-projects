@@ -7,6 +7,7 @@
 ## 🔎 Project Index
 
 ### Cybersecurity & Cyber Risk
+- [Social Engineering Attack Simulation – Spear-Phishing & Credential Harvesting](#social-engineering-attack-simulation--spear-phishing--credential-harvesting)
 - [Amazon Prime Air – Drone Delivery System Threat Model (STRIDE)](#amazon-prime-air--drone-delivery-system-threat-model-stride)
 - [France – Smart Surveillance](#france--smart-surveillance-ai-related-cyber-risks--governance)
 - [Ferrari Cyber Security Toolkit](#ferrari-cyber-security-toolkit-board-level)
@@ -29,6 +30,25 @@
 
 ---
 
+## Social Engineering Attack Simulation – Spear-Phishing & Credential Harvesting
+
+**Course:** Human and Physical Aspects of Security  
+**Focus:** Social engineering, OSINT, spear-phishing, adversary-in-the-middle (AiTM) phishing, credential & 2FA harvesting  
+**Methodology:** OSINT-driven reconnaissance, structured *Objective–Finding–Source* intelligence model, Hadnagy social-engineering principles (authority, urgency, pretexting, rapport-building)  
+**Technologies:** Python, Flask, browser automation, HTML/CSS/JS  
+
+**Description:**  
+End-to-end red-team-style social engineering exercise simulating a targeted attack against a security-aware individual. The scenario centres on compromising a victim's identity on a national tax-authority portal to redirect tax reimbursements to an attacker-controlled account, using organisations linked to the target as an indirect attack surface.
+
+The project covers the full attack chain in three phases:
+- **Reconnaissance (OSINT):** mapping of corporate ownership and governance structure around the target through public registries, corporate databases, search-engine dorking, archived web content, and email-pattern inference, to identify legal representatives, delegates, and external auditors as candidate targets. Intelligence was tracked with a structured *Objective / Finding / Source* model.
+- **Phishing design:** a two-stage campaign — a low-effort replica of a legitimate institutional notification, followed by a tailored spear-phishing message exploiting an auditor–client authority relationship — each design choice explicitly mapped to established social-engineering principles.
+- **Phishing infrastructure (PoC):** a cloned login portal reproducing the institution's federated digital-identity (SPID) flow, with a real-time adversary-in-the-middle relay that forwards captured credentials and second-factor responses (app approval, OTP token, QR code) to the legitimate service as the victim authenticates — defeating 2FA — and serves a convincing post-login interface to avoid raising suspicion.
+
+> ⚠️ **Educational use only.** Carried out strictly as an academic exercise on a fictional, course-authorised scenario. The full report and source code are **not published**: they contain personally identifiable information (PII) of real individuals gathered via OSINT, and a functional credential-harvesting toolkit.
+
+---
+
 ## Amazon Prime Air – Drone Delivery System Threat Model (STRIDE)
 
 **Course:** Human and Physical Aspects of Security  
@@ -38,8 +58,6 @@
 
 **Description:**  
 Group threat model of **Amazon Prime Air**, Amazon's autonomous BVLOS drone delivery service built on the **MK27** fixed-wing VTOL airframe. The analysis is grounded in Amazon's publicly available FAA petition and structured around a full **Data Flow Diagram** — assets, actors, processes, data stores, external entities, and trust boundaries — modelled in OWASP Threat Dragon.
-
-Applying the **STRIDE** methodology, **23 threats** were enumerated across all six categories, each documented with required attacker access, affected security properties (CIA + authenticity/non-repudiation), assets at risk, severity rationale, and mitigation. Threats were prioritised through a qualitative **Likelihood × Impact risk matrix**.
 
 <p align="center">
   <img src="./img/THREAT MODEL.png" width="80%" />
