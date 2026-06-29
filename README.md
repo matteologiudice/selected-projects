@@ -7,6 +7,7 @@
 ## 🔎 Project Index
 
 ### Cybersecurity & Cyber Risk
+- [Amazon Prime Air – Drone Delivery System Threat Model (STRIDE)](#amazon-prime-air--drone-delivery-system-threat-model-stride)
 - [France – Smart Surveillance](#france--smart-surveillance-ai-related-cyber-risks--governance)
 - [Ferrari Cyber Security Toolkit](#ferrari-cyber-security-toolkit-board-level)
 - [NotPetya Impact Analysis – Maersk](#notpetya-impact-analysis--maersk-global-operations)
@@ -25,6 +26,22 @@
 
 ### Computer Graphics
 - [Asteroids – 2D Game](#asteroids--2d-game-with-hierarchical-collision-detection)
+
+---
+
+## Amazon Prime Air – Drone Delivery System Threat Model (STRIDE)
+
+**Course:** Human and Physical Aspects of Security  
+**Focus:** Threat modelling, attack surface analysis, cyber-physical & RF security, UAS/aviation security, qualitative risk assessment  
+**Methodology:** STRIDE (Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege)  
+**Tools:** OWASP Threat Dragon v2.6.2  
+
+**Description:**  
+Group threat model of **Amazon Prime Air**, Amazon's autonomous BVLOS drone delivery service built on the **MK27** fixed-wing VTOL airframe. The analysis is grounded in Amazon's publicly available FAA petition and structured around a full **Data Flow Diagram** — assets, actors, processes, data stores, external entities, and trust boundaries — modelled in OWASP Threat Dragon.
+
+Applying the **STRIDE** methodology, **23 threats** were enumerated across all six categories, each documented with required attacker access, affected security properties (CIA + authenticity/non-repudiation), assets at risk, severity rationale, and mitigation. Threats were prioritised through a qualitative **Likelihood × Impact risk matrix**.
+
+📄 [Download PDF (Report)](./Threat_Model_Drone_Delivery_System_STRIDE.pdf)
 
 ---
 
