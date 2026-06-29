@@ -41,6 +41,10 @@ Group threat model of **Amazon Prime Air**, Amazon's autonomous BVLOS drone deli
 
 Applying the **STRIDE** methodology, **23 threats** were enumerated across all six categories, each documented with required attacker access, affected security properties (CIA + authenticity/non-repudiation), assets at risk, severity rationale, and mitigation. Threats were prioritised through a qualitative **Likelihood × Impact risk matrix**.
 
+<p align="center">
+  <img src="./img/THREAT MODEL.png" width="80%" />
+</p>
+
 📄 [Download PDF (Report)](./Threat_Model_Drone_Delivery_System_STRIDE.pdf)
 
 ---
