@@ -7,6 +7,7 @@
 ## 🔎 Project Index
 
 ### Cybersecurity & Cyber Risk
+- [CAN Bus Intrusion Detection System (IDS)](#can-bus-intrusion-detection-system--rule-based-detection-with-learned-benign-profiles)
 - [Social Engineering Attack Simulation – Spear-Phishing & Credential Harvesting](#social-engineering-attack-simulation--spear-phishing--credential-harvesting)
 - [Amazon Prime Air – Drone Delivery System Threat Model (STRIDE)](#amazon-prime-air--drone-delivery-system-threat-model-stride)
 - [France – Smart Surveillance](#france--smart-surveillance-ai-related-cyber-risks--governance)
@@ -27,6 +28,20 @@
 
 ### Computer Graphics
 - [Asteroids – 2D Game](#asteroids--2d-game-with-hierarchical-collision-detection)
+
+---
+
+## CAN Bus Intrusion Detection System – Rule-Based Detection with Learned Benign Profiles
+
+**Course:** Human and Physical Aspects of Security  
+**Focus:** Automotive / in-vehicle network security, CAN bus intrusion detection, anomaly detection, explainable detection  
+**Methodology:** Rule-based detection engine calibrated on benign traffic (global and per-CAN-ID behavioural profiles, additive multi-class scoring)  
+**Technologies:** Python, pandas, NumPy, scikit-learn, Matplotlib  
+
+**Detected Attack Classes:** DoS, Fuzzy, Spoofing, Masquerade, Replay  
+
+**Description:**  
+Intrusion Detection System for the automotive **CAN bus**. The detector is rule-based but data-driven: it learns a vehicle's *benign* behaviour from attack-free traffic only (per-ID timing, DLCs, payload ranges, reuse gaps, allowed ID transitions, persisted to a reusable JSON profile), then flags deviations through explainable per-class rules with additive scoring. Evaluated on six held-out labelled captures with accuracy, precision, recall and F1 score.
 
 ---
 
