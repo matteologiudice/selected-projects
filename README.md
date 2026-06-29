@@ -43,6 +43,8 @@
 **Description:**  
 Intrusion Detection System for the automotive **CAN bus**. The detector is rule-based but data-driven: it learns a vehicle's *benign* behaviour from attack-free traffic only (per-ID timing, DLCs, payload ranges, reuse gaps, allowed ID transitions, persisted to a reusable JSON profile), then flags deviations through explainable per-class rules with additive scoring. Evaluated on six held-out labelled captures with accuracy, precision, recall and F1 score.
 
+📄 [Download Jupyter Notebook](./CAN_bus_traffic_IDS.ipynb)
+
 ---
 
 ## Social Engineering Attack Simulation – Spear-Phishing & Credential Harvesting
